@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+streamlit
+pyngrok
+# If you used XGBoost at any point:
+xgboost
